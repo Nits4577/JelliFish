@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jellyfish", "JeliFish\Jellyfish.csproj", "{419CAA9E-F314-48F0-BB53-1AEDA52F2C14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jellyfish.Test", "Jellyfish.Test\Jellyfish.Test.csproj", "{29EF5ACA-C096-442D-A30A-1C650E32696D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419CAA9E-F314-48F0-BB53-1AEDA52F2C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419CAA9E-F314-48F0-BB53-1AEDA52F2C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419CAA9E-F314-48F0-BB53-1AEDA52F2C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419CAA9E-F314-48F0-BB53-1AEDA52F2C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EF5ACA-C096-442D-A30A-1C650E32696D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EF5ACA-C096-442D-A30A-1C650E32696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EF5ACA-C096-442D-A30A-1C650E32696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EF5ACA-C096-442D-A30A-1C650E32696D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32DB1100-6AA2-4262-97E2-653BC4EB3AA6}
+	EndGlobalSection
+EndGlobal
